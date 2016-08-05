@@ -1,0 +1,27 @@
+_repo: The-Bobbsey-Twins-at-the-Seashore_6950
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seashore -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Bobbsey Twins (Fictitious characters) -- Juvenile fiction'
+- GITenberg
+title: The Bobbsey Twins at the Seashore
+url: http://www.gutenberg.org/ebooks/6950
